@@ -1,11 +1,13 @@
 ﻿namespace Line_comparisons
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+         private static void Main(string[] args)
         {
             //Console.WriteLine("Welcome to Line comparisons");
-            CartesionSystem.Cartesian_System();
+            //CartesionSystem.Cartesian_System();
+            TwoLinesAreEqual.TwoLines_AreEqual();
+            
 
         }
     }
