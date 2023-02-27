@@ -7,8 +7,8 @@
             //Console.WriteLine("Welcome to Line comparisons");
             //CartesionSystem.Cartesian_System();
             //TwoLinesAreEqual.TwoLines_AreEqual();
-            LinesCompared.Lines_Compared();
-
+            // LinesCompared.Lines_Compared();
+            JavaObjectCompared.JavaObject_Compared();
         }
     }
 }
